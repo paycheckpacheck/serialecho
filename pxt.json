@@ -1,5 +1,5 @@
 {
-    "name": "SerialEcho",
+    "name": "SerialWalkie",
     "description": "",
     "dependencies": {
         "core": "*",
